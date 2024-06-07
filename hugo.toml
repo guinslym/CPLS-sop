@@ -1,6 +1,5 @@
-baseURL = 'https://parkinglotlinepaintingblog.capitalpaintingservices.ca'
 languageCode = 'en-us'
-title = 'Blog - Capital Parking Lot Lines Painting (CPLS)'
+title = 'User Manual (wiki) - Capital Parking Lot Lines Painting (CPLS)'
 theme = 'ananke'
 googleAnalytics = "G-VRFCW41NVK"
 [services]

@@ -1,1 +1,1 @@
-Blog posts SEO
+Manuals - SOPs
