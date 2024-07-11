@@ -1,6 +1,6 @@
 +++
 title = 'SOP for painting curbing on parking lot'
-date = 2024-06-02T13:36:08-04:00
+date = 2024-05-22T13:36:08-04:00
 description = "Learn the ins and outs of applying chalkline for precise and efficient parking lot line painting projects. Discover tips and tricks from the experts at Capital Parking Lot Lines Painting (CPLS)."
 author = "[Capital Parking Lot Lines Painting (CPLS)](https://capitalpaintingservices.ca/)"
 tags = ["parking lot line painting", "curbings", "quality", "CPLS", "manuals", "SOP"]

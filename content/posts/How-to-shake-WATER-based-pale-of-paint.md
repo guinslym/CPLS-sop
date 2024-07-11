@@ -1,4 +1,3 @@
-# How to shake WATER-based pale of paint
 +++
 title = 'How to shake WATER-based pale of paint'
 date = 2024-02-12T13:36:08-04:00
@@ -8,6 +7,7 @@ tags = ["parking lot line painting", "paint", "pale", "CPLS", "manuals", "SOP"]
 keywords = ["manuals", "SOP"]
 +++
 
+# How to shake WATER-based pale of paint
 ![](https://t9003124045.p.clickup-attachments.com/t9003124045/d50bd562-034d-48c4-8443-3f6da3d0c77b/image.png)
 
 
