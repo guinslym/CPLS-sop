@@ -18,7 +18,7 @@ featured_image='/blog/dark-1867089_1280.jpg'
 * **Pass the Blower:**
   - Use a blower to remove dust and debris from the site.
   - Ensure the surface is clean and ready for painting.
-
+![Painting Number Stencils on Parking Lot Pavement](/blog/blower.jpg)
 * **Prepare Shingle:**
   - Set up shingles as required for the job.
   - Ensure they are correctly positioned and secure.
@@ -32,11 +32,12 @@ featured_image='/blog/dark-1867089_1280.jpg'
 * **Verify Site Plan:**
   - Confirm the site plan with the manager or owner.
   - Verify parking stall measurements and line placements.
+![Painting Number Stencils on Parking Lot Pavement](/blog/siteplan2.jpg)
 
 * **Change and Adjust Tips for Line Width:**
   - Adjust the paint gun tips for the required line width.
   - Ensure the tips are clean and functioning properly.
-
+![Painting Number Stencils on Parking Lot Pavement](/blog/linew.jpg)
 * **Apply Chalkline:**
   - Mark the lines with chalk to guide the painting process.
   - Double-check measurements to ensure accuracy.
