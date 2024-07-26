@@ -5,6 +5,7 @@ description = "Learn the ins and outs of applying chalkline for precise and effi
 author = "[Capital Parking Lot Lines Painting (CPLS)](https://capitalpaintingservices.ca/)"
 tags = ["chalkline", "parking lot line painting", "efficiency", "quality", "CPLS", "manuals", "SOP"]
 keywords = ["manuals", "SOP"]
+featured_image='/blog/chalk.jpeg'
 +++
 
 ![](https://t9003124045.p.clickup-attachments.com/t9003124045/36376558-a7b1-4879-8355-6afd6a0f6c05/image.png)

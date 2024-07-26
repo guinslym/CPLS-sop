@@ -5,9 +5,12 @@ description = "Ensure all necessary information is gathered before heading to th
 author = "[Capital Parking Lot Lines Painting (CPLS)](https://capitalpaintingservices.ca/)"
 tags = ["parking lot line painting", "job site preparation", "CPLS", "manuals", "SOP"]
 keywords = ["job site preparation", "SOP"]
+featured_image='/blog/smile.png'
 +++
 
-**Questions to Ask Before Going to a Site:**
+![Painting Number Stencils on Parking Lot Pavement](/blog/chalk.jpeg)
+
+**Questions you should Ask Before Going to a Site:**
 
 * **When and what time do you want me to be there?**
   - Confirm the exact date and time to arrive on site.
@@ -23,6 +26,8 @@ keywords = ["job site preparation", "SOP"]
   - Clarify the expected duration of the work to plan accordingly.
 * **How many parking spots need to be painted?**
   - Determine the scope of the job in terms of the number of parking spots.
+* **How many line painting machines will be there?**
+  - Determine the number of parking lot line machine.
 * **Is there any stencil to paint?**
   - Confirm if there are any specific stencils or special markings required.
 * **When will I get paid?**
